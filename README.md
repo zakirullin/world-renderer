@@ -1,5 +1,5 @@
-# Minecraft-like world generator based on [Diamond-square algorithm](https://en.wikipedia.org/wiki/Diamond-square_algorithm)
-## Build
+# Minecraft-like OpenGL world render based on [Diamond-square algorithm](https://en.wikipedia.org/wiki/Diamond-square_algorithm)
+## Build (SDL library are required to build)
 ```$ make```
 ## Running
 ```$ ./render```
