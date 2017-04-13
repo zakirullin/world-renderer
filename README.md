@@ -4,7 +4,7 @@
 ## Running
 ```$ ./render```
 ## Controls
-```WASD Keys``` for ```Forward/Left/Back/Right``` respectively, ```Up/Down Arrows``` for Up/Down
+```WASD Keys``` for ```Forward/Left/Back/Right``` respectively, ```Up/Down Arrows``` for Up/Down, ```ESC``` to exit
 ## Examples of generated heightmaps
 ![heightmap](https://raw.githubusercontent.com/zakirullin/world-render/master/screenshots/heightmap.bmp)
 ![heightmap](https://raw.githubusercontent.com/zakirullin/world-render/master/screenshots/heightmap2.bmp)
