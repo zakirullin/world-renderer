@@ -1,5 +1,5 @@
 LIBS = -lSDL -lGL -lGLU -lm
-FILES = main.c heightmap.c chunk.c
+FILES = src/main.c src/heightmap.c src/chunk.c
 CC = gcc
 OUT = -orender
 
