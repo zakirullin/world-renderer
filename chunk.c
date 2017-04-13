@@ -178,13 +178,13 @@ enum BlockType block_at(int x, int y, int z)
 
 void load_textures()
 {
-	textures[Earth] = load_texture("earth.bmp");
-	textures[Sand] = load_texture("sand.bmp");
-	textures[Water] = load_texture("water.bmp");
-	textures[EARTH_TOP] = load_texture("earth_top.bmp");
-	textures[EARTH_FRONT] = load_texture("earth_front.bmp");
-	textures[SAND_TOP] = load_texture("sand_top.bmp");
-	textures[SAND_FRONT] = load_texture("sand_front.bmp");
+	textures[Earth] = load_texture("sprites/earth.bmp");
+	textures[Sand] = load_texture("sprites/sand.bmp");
+	textures[Water] = load_texture("sprites/water.bmp");
+	textures[EARTH_TOP] = load_texture("sprites/earth_top.bmp");
+	textures[EARTH_FRONT] = load_texture("sprites/earth_front.bmp");
+	textures[SAND_TOP] = load_texture("sprites/sand_top.bmp");
+	textures[SAND_FRONT] = load_texture("sprites/sand_front.bmp");
 }
 
 int load_texture (char *filename)

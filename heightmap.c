@@ -45,7 +45,7 @@ void save_heightmap(SDL_PixelFormat *format, char *filename)
 	}
 	
 	SDL_Surface *image = SDL_CreateRGBSurfaceFrom(pixels, CHUNK_WIDTH, CHUNK_WIDTH, format->BitsPerPixel, CHUNK_WIDTH * 4, format->Rmask, format->Gmask, format->Bmask, format->Amask);
-	SDL_SaveBMP(image, "img.bmp");
+	SDL_SaveBMP(image, "heightmap.bmp");
 	
 	SDL_FreeSurface(image);
 	
