@@ -1,9 +1,9 @@
 # Minecraft-like OpenGL world renderer based on [Diamond-square algorithm](https://en.wikipedia.org/wiki/Diamond-square_algorithm)
 ## Build (SDL library is required to build)
 ```$ make```
-## Running
+## Run
 ```$ ./render```
-## Controls
+## Available controls
 ```WASD Keys``` for Forward/Left/Back/Right respectively, ```Up/Down Arrows``` for Up/Down, ```ESC``` to exit
 ## Examples of generated heightmaps
 ![heightmap](https://raw.githubusercontent.com/zakirullin/world-render/master/screenshots/heightmap.bmp)
