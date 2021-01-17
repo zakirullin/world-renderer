@@ -5,10 +5,10 @@
 ```$ ./render```
 ## Available controls
 ```WASD Keys``` for Forward/Left/Back/Right respectively, ```Up/Down Arrows``` for Up/Down, ```ESC``` to exit
-## Example of generated heightmaps
+## Generated heightmaps example
 ![heightmap](https://raw.githubusercontent.com/zakirullin/world-render/master/screenshots/heightmap.bmp)
 ![heightmap](https://raw.githubusercontent.com/zakirullin/world-render/master/screenshots/heightmap2.bmp)
-## Example of generated worlds
+## Generated terrains example
 ![world](https://raw.githubusercontent.com/zakirullin/world-render/master/screenshots/scr9.png)
 ![world](https://raw.githubusercontent.com/zakirullin/world-render/master/screenshots/scr16.png)
 ![world](https://raw.githubusercontent.com/zakirullin/world-render/master/screenshots/scr8.png)
