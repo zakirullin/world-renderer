@@ -12,4 +12,3 @@
 ![world](https://raw.githubusercontent.com/zakirullin/world-render/master/screenshots/scr9.png)
 ![world](https://raw.githubusercontent.com/zakirullin/world-render/master/screenshots/scr16.png)
 ![world](https://raw.githubusercontent.com/zakirullin/world-render/master/screenshots/scr8.png)
-![world](https://raw.githubusercontent.com/zakirullin/world-render/master/screenshots/scr17.png)
