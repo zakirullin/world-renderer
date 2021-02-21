@@ -8,7 +8,7 @@
 ## Generated heightmap examples
 ![heightmap](https://raw.githubusercontent.com/zakirullin/world-render/master/screenshots/heightmap.bmp)
 ![heightmap](https://raw.githubusercontent.com/zakirullin/world-render/master/screenshots/heightmap2.bmp)
-## Generated terrains example
+## Generated terrains examples
 ![world](https://raw.githubusercontent.com/zakirullin/world-render/master/screenshots/scr9.png)
 ![world](https://raw.githubusercontent.com/zakirullin/world-render/master/screenshots/scr16.png)
 ![world](https://raw.githubusercontent.com/zakirullin/world-render/master/screenshots/scr8.png)
